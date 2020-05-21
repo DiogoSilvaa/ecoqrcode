@@ -1,7 +1,7 @@
 const http = require('http');
 
 let app = http.createServer((req,res)=>{
-    res.render('/public/index',{});
+    res.render('public/index',{});
 }) 
 
 const PORT = process.env.PORT || 3000;
