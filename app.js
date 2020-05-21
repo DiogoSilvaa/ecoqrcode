@@ -1,10 +1,8 @@
-var express = require('express');
-var app = express();
+const http = require('http');
 
-app.use(express.static(__dirname+'/public'));
-app.get('/', function(req, res){
+let app = http.createServer((req,res)=>{
     res.render('index',{});
-})
+}) 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () =>{
     console.log('Our app is running on port ${Port}');
