@@ -1,14 +1,31 @@
 {
   "name": "ecoqrcode",
-  "version": "1.0.0",
-  "description": "EcoQrCode Project",
+  "version": "0.3.0",
+  "description": "Sample QR code flyer/menu destination",
+  "engines": {
+    "node": "12.x"
+  },
   "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js",
+    "test": "node test.js"
   },
-  "author": "Diogo Silva",
-  "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "IST"
 }
