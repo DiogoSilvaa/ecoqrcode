@@ -8,3 +8,14 @@
     margin-right: auto;
     margin-top: 5%;
 }
+.buttons {
+background-color: rgb(253, 182, 49);
+color: white;
+border: 2px solid white;
+border-radius: 12px;
+transition-duration: 0.4s;
+}
+.buttons:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
