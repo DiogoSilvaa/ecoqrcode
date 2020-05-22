@@ -1,7 +1,7 @@
 {
-  "name": "ecoqrcode",
+  "name": "node-js-getting-started",
   "version": "0.3.0",
-  "description": "Sample QR code flyer/menu destination",
+  "description": "A sample Node.js app using Express 4",
   "engines": {
     "node": "12.x"
   },
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/heroku/node-js-getting-started"
   },
   "keywords": [
     "node",
     "heroku",
     "express"
   ],
-  "license": "IST"
+  "license": "MIT"
 }
