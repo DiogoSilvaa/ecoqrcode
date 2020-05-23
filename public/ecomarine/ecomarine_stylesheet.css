@@ -7,7 +7,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 30%;
+    margin-top: 20%;
 }
 #button_first {
 background-color: rgb(28, 143, 209);
@@ -17,7 +17,7 @@ border-radius: 12px;
 font-family: 'Open Sans', sans-serif;
 font-size: 20px;
 width: 30%;
-margin-top: 15%
+margin-top: 7.5%
 }
 #button_second {
     background-color: rgb(28, 143, 209);
