@@ -7,7 +7,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 30%;
+    margin-top: 10%;
 }
 #button_first {
 background-color: rgb(177, 19, 19);
@@ -18,4 +18,19 @@ font-family: 'Open Sans', sans-serif;
 font-size: 20px;
 width: 45%;
 margin-top: 15%
+}
+#flag_first{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7.5%;
+}
+#font_language{
+    margin-top: 10%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+}
+#div_main{
+    text-align: center;
 }
