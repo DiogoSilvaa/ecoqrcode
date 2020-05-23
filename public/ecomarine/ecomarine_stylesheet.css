@@ -10,14 +10,14 @@
     margin-top: 20%;
 }
 #button_first {
-background-color: rgb(28, 143, 209);
-color: white;
-border: 2px solid white;
-border-radius: 12px;
-font-family: 'Open Sans', sans-serif;
-font-size: 20px;
-width: 45%;
-margin-top: 7.5%
+    background-color: rgb(28, 143, 209);
+    color: white;
+    border: 2px solid white;
+    border-radius: 12px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    width: 45%;
+    margin-top: 7.5%
 }
 #button_second {
     background-color: rgb(28, 143, 209);
@@ -28,4 +28,23 @@ margin-top: 7.5%
     font-size: 20px;
     width: 45%;
     margin-top: 7.5%
-    }
+}
+#flag_first{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7.5%;
+    max-width:75px;
+    max-height:75px;
+    width: auto;
+    height: auto;
+}
+#font_language{
+    margin-top: 10%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+}
+#div_main{
+    text-align: center;
+}
