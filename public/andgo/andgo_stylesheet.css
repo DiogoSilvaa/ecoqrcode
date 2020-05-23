@@ -15,29 +15,24 @@
     border: 2px solid rgb(177, 19, 19);
     font-family: 'Open Sans', sans-serif;
     font-size: 20px;
-    width: 65%;
+    width: 45%;
     margin-top: 15%
 }
 #flag_first{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    max-width:75px;
-    max-height:75px;
     border-radius: 12px;
-    width: auto;
-    height: auto;
+    width: 75px;
+    height: 50;
 }
 #flag_second{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 0.5%;
-    max-width:90px;
-    max-height:90px;
     border-radius: 12px;
-    width: auto;
-    height: auto;
+    width: 75px;
+    height: 50px;
 }
 #font_language{
     margin-top: 10%;
