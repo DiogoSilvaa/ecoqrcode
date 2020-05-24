@@ -12,8 +12,7 @@
 #button_first {
     background-color: rgb(28, 143, 209);
     color: white;
-    border: 2px solid white;
-    border-radius: 12px;
+    border: 1.5px solid white;
     font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     width: 45%;
@@ -22,8 +21,7 @@
 #button_second {
     background-color: rgb(28, 143, 209);
     color: white;
-    border: 2px solid white;
-    border-radius: 12px;
+    border: 1.5px solid white;
     font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     width: 45%;
